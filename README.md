@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>status-checks: stay ontop of your code quality and pull-requests.</h1>
+<h2>status-checks: GitHub status checks as Functions.</h1>
 
 <p>It could'nt be easier to setup status checks within GitHub.
 status-checks gives you a simple way to create GitHub status checks to run any command on each pull request. You provide the functions and we will do the rest.</p>

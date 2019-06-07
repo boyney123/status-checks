@@ -3,7 +3,7 @@
 <h2>status-checks: GitHub status checks as functions.</h1>
 
 <p>It could'nt be easier to setup status checks within GitHub.
-status-checks gives you a simple way to create GitHub status checks to run any command on each pull request. You provide the functions and we will do the rest.</p>
+This project gives you a simple way to integrate with [GitHub status checks](https://help.github.com/en/articles/about-status-checks). You provide the functions and we will do the rest.</p>
 
   <hr />
 

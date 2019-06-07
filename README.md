@@ -32,11 +32,20 @@ This project gives you a simple way to integrate with <a href="https://help.gith
 
 Code quality is important. To help with code quality we have CD. With these simple functions you can get setup within minutes and have status checks running against your PRs.
 
+
+Code quality is important. To help with code quality we have various tasks / scripts / apps and bots that we need to run to assert our quality does not drop.
+
+Continuous integration is a great way to make sure our quality does not drop and we have confidence with our software.
+
+GitHub have done a great job allowing us to integrate with the platform and run various checks before code gets merged. You can automate these checks with GitHub using status checks and GitHub actions.
+
+In the past I have setup multiple projects with GitHub to integrate and run various commands through status checks, and I wanted to create an application that could handle most the integration for me. I wanted to create a platform that allowed me to specify the functions I want to run on each status check.
+
+This is when `status-checks` was born. `status-checks` takes a folder of functions (defined by you) and runs them through any pull request that comes in and integrated back with GitHub.
+
 ## This solution
 
-`status-checks` was built to help developers on their way to continous delivery and also help developers manage code quailty with automation.
-
-`status-checks` was built with developer experince in mind. Getting setup with `status-checks` takes minutes and you have intergated status checks setup within a few minutes.
+`status-checks` was built and designed to help developers integrate with GitHub status checks easier. You define the functions to run and this project will do the rest.
 
 ## Documentation
 

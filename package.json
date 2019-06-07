@@ -1,0 +1,33 @@
+{
+  "name": "pullreq",
+  "version": "0.0.1",
+  "description": "Small platform that supports functions as github status checks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "GITHUB_TOKEN=token NODE_ENV=test jest --coverage --silent",
+    "test:watch": "GITHUB_TOKEN=token NODE_ENV=test jest --watchAll --notify --notifyMode=change"
+  },
+  "keywords": [
+    "docker",
+    "github",
+    "status-api",
+    "functions"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^16.27.0",
+    "@octokit/webhooks": "^6.2.2",
+    "chalk": "^2.4.2",
+    "child-process-promise": "^2.2.1",
+    "cli-spinners": "^2.1.0",
+    "log-update": "^3.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "jest": "^24.8.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}

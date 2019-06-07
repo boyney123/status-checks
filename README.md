@@ -1,9 +1,9 @@
 <div align="center">
 
-<h2>status-checks: keep your code quality high with pull request status checks.</h1>
+<h2>status-checks: stay ontop of your code quality and pull-requests.</h1>
 
-<p>It could'nt be easier to setup status checks with GitHub.
-status-checks gives you a simple way to create GitHub status checks, you provide the functions and we will do the rest.</p>
+<p>It could'nt be easier to setup status checks within GitHub.
+status-checks gives you a simple way to create GitHub status checks to run any command on each pull request. You provide the functions and we will do the rest.</p>
 
   <hr />
 
@@ -20,7 +20,7 @@ status-checks gives you a simple way to create GitHub status checks, you provide
 
 <hr/>
 
-  <h3>Features: just functions, octokit support, simple API to integrate with GitHub, easily host and more...</h2>
+  <h3>Features: GitHub integration, functions, docker support, exposed GitHub API helpers, setup within minutes, easily host and more...</h2>
   
   [Read the Docs](https://status-checks.netlify.com/) | [Edit the Docs](https://github.com/boyney123/status-checks)
 

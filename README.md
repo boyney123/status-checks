@@ -19,7 +19,7 @@ This project gives you a simple way to integrate with <a href="https://help.gith
 [Donate ☕](https://www.paypal.me/boyney123/5)
 
 <hr/>
-
+<img alt="header" src="./screenshot.png" />
   <h3>Features: GitHub integration, functions, docker support, exposed GitHub API helpers, setup within minutes, easily host and more...</h2>
   
   [Read the Docs](https://status-checks.netlify.com/) | [Edit the Docs](https://github.com/boyney123/status-checks)
@@ -31,7 +31,6 @@ This project gives you a simple way to integrate with <a href="https://help.gith
 ## The problem
 
 Code quality is important. To help with code quality we have CD. With these simple functions you can get setup within minutes and have status checks running against your PRs.
-
 
 Code quality is important. To help with code quality we have various tasks / scripts / apps and bots that we need to run to assert our quality does not drop.
 

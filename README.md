@@ -51,6 +51,8 @@ This is when `status-checks` was born. `status-checks` takes a folder of functio
 - [Getting Started](https://status-checks.netlify.com/docs/getting-started/installation)
 - [Contributing](https://status-checks.netlify.com/docs/contributing/contributing)
 
+:star: Huge thanks to the [all-contributors project](https://allcontributors.org/) for allowing us to use their theme for the documentation website. :star: 
+
 ## Tools
 
 - [@octokit/rest](https://github.com/octokit/rest.js)

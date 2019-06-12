@@ -30,8 +30,6 @@ You provide the functions and we will do the rest.</p>
 
 ## The problem
 
-Code quality is important. To help with code quality we have CD. With these simple functions you can get setup within minutes and have status checks running against your PRs.
-
 Code quality is important. To help with code quality we have various tasks / scripts / apps and bots that we need to run to assert our quality does not drop.
 
 Continuous integration is a great way to make sure our quality does not drop and we have confidence with our software.
@@ -51,7 +49,7 @@ This is when `status-checks` was born. `status-checks` takes a folder of functio
 - [Getting Started](https://status-checks.netlify.com/docs/getting-started/installation)
 - [Contributing](https://status-checks.netlify.com/docs/contributing/contributing)
 
-:star: Huge thanks to the [all-contributors project](https://allcontributors.org/) for allowing us to use their theme for the documentation website. :star: 
+:star: Huge thanks to the [all-contributors project](https://allcontributors.org/) for allowing us to use their theme for the documentation website. :star:
 
 ## Tools
 

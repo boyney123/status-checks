@@ -2,8 +2,8 @@
 
 <h2>status-checks: GitHub status checks as JS functions.</h1>
 
-<p>It couldn't be easier to setup status checks within GitHub.
-This project gives you a simple way to integrate with <a href="https://help.github.com/en/articles/about-status-checks" target="_blank">GitHub status checks</a>. You provide the functions and we will do the rest.</p>
+<p>Quickly get setup and integrate with <a href="https://help.github.com/en/articles/about-status-checks" target="_blank">GitHub status checks</a>.
+You provide the functions and we will do the rest.</p>
 
   <hr />
 

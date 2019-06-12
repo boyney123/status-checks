@@ -40,6 +40,8 @@ In the past I have setup multiple projects with GitHub to integrate and run vari
 
 This is when `status-checks` was born. `status-checks` takes a folder of functions (defined by you) and runs them through any pull request that comes in and integrated back with GitHub.
 
+[You can read the documentation on how to get started](https://status-checks.netlify.com/docs/how-it-works).
+
 ## This solution
 
 `status-checks` was built and designed to help developers integrate with GitHub status checks easier. You define the functions to run and this project will do the rest.

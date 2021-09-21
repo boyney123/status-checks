@@ -28,6 +28,7 @@ You provide the functions and we will do the rest.</p>
 
 <hr/>
 
+<!--header|type:list -->
 ## The problem
 
 Code quality is important. To help with code quality we have various tasks / scripts / apps and bots that we need to run to assert our quality does not drop.
